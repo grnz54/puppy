@@ -1,19 +1,19 @@
 # puppy
 
 
-[ ] food
-  [ ] origen large puppy
-  [ ] training bits
-  [ ] water/food dish
+- [ ] food
+  - [ ] origen large puppy
+  - [ ] training bits
+  - [ ] water/food dish
   
-[ ] sleep
-  [x] find kennel
-  [ ] clean kennel
-  [ ] blanket
+- [ ] sleep
+  - [x] find kennel
+  - [ ] clean kennel
+  - [ ] blanket
   
-[ ] toys
-  [ ]
+- [ ] toys
+  - [ ]
   
-[] travel
-  [] piddle pads?
+- [] travel
+  - [] piddle pads?
   
