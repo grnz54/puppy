@@ -14,6 +14,6 @@
 - [ ] toys
   - [ ]
   
-- [] travel
-  - [] piddle pads?
+- [ ] travel
+  - [ ] piddle pads?
   
