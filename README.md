@@ -1,19 +1,23 @@
 # puppy
 
+## Pick up.
+- [ ] take a towel or shirt or toy to rub on momma?
+- [ ] food/water
+- [ ] leash
+- [ ] collar
+- [ ] piddle/puppy pads
 
-- [ ] food
+## food
   - [ ] origen large puppy
   - [ ] training bits
   - [ ] water/food dish
   
-- [ ] sleep
+## sleep
   - [x] find kennel
-  - [ ] clean kennel
+  - [x] clean kennel
   - [ ] blanket
   
-- [ ] toys
-  - [ ]
+## toys
+  - [ ] buffalo like toy, to sleep with
   
-- [ ] travel
-  - [ ] piddle pads?
-  
+
