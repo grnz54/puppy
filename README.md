@@ -2,15 +2,16 @@
 
 ## Pick up.
 - [ ] take a towel or shirt or toy to rub on momma?
-- [ ] food/water
-- [ ] leash
-- [ ] collar
+- [x] food/water
+  - [ ] Lynn will provide food 
+- [x] leash
+- [x] collar
 - [ ] piddle/puppy pads
 
 ## food
-  - [ ] origen large puppy
-  - [ ] training bits
-  - [ ] water/food dish
+  - [x] origen large puppy
+  - [x] training bits
+  - [x] water/food dish
   
 ## sleep
   - [x] find kennel
